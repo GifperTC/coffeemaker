@@ -91,6 +91,10 @@ public class CoffeeMakerTest {
 		recipe4.setAmtSugar("1");
 		recipe4.setPrice("65");
 	}
+
+	public void recipeMaker(){
+
+	}
 	
 	
 	/**
