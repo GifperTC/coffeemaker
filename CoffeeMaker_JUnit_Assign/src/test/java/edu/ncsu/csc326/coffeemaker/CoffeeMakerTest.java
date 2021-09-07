@@ -132,4 +132,16 @@ public class CoffeeMakerTest {
 		assertEquals(25, coffeeMaker.makeCoffee(0, 75));
 	}
 
+//	/**
+//	 * Given a coffee maker with one valid recipe
+//	 * When we make coffee, selecting the valid recipe and paying more than
+//	 * 		the coffee costs
+//	 * Then we get the correct change back.
+//	 */
+//	@Test
+//	public void test() {
+//		coffeeMaker.addRecipe(recipe1);
+//		assertEquals(25, coffeeMaker.makeCoffee(0, 75));
+//	}
+
 }
